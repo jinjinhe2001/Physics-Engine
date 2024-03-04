@@ -1,0 +1,14 @@
+# anything named bin or build
+bin
+build
+
+# ignore potentially big files
+*.log
+*.gif
+*.GIF
+*.tiff
+*.TIFF
+*.bmp
+*.BMP
+*.bin
+*.binary

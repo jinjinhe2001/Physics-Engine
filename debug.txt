@@ -1,0 +1,37 @@
+[  3%] Built target imgui
+[  4%] Built target glad
+[  6%] Built target rtaudio
+[  8%] Built target serial
+[ 13%] Built target oscpack
+[ 14%] Built target cuttlebone
+[ 16%] Built target rtmidi
+[ 23%] Built target Gamma
+[ 32%] Built target glfw
+[ 93%] Built target al
+[ 95%] Built target al_openvr
+[ 96%] Built target al_soundfile
+[ 98%] Built target al_statedistribution
+[100%] Building CXX object CMakeFiles/app.dir/src/main.cpp.o
+[100%] Linking CXX executable /Users/hejinjin/Desktop/Assignment/MAT201B/physics-allolib/bin/app
+[100%] Built target app
+Primary port ACQUIRED: hejinjindeMacBook-Air.local
+Using default configuration (no distributed_app.toml)
+Parameter OSC Handshake server running on 0.0.0.0:16987
+Parameter Server OSC port (primary): 127.0.0.1:9010
+Loading OBJ file ./assets/bunny/bunny.obj...
+loaded image size: 1024, 1024
+loaded image size: 4096, 4096
+Loading OBJ file ./assets/plane/plane.obj...
+loaded image size: 4096, 4096
+loaded image size: 2048, 2048
+loaded image size: 2048, 2048
+loaded image size: 2048, 2048
+loaded image size: 2048, 2048
+loaded image size: 2048, 2048
+loaded image size: 2048, 2048
+Loading OBJ file ./assets/bunny/bunny.obj...
+loaded image size: 1024, 1024
+Loading OBJ file ./assets/bunny/bunny.obj...
+loaded image size: 1024, 1024
+Loading OBJ file ./assets/bunny/bunny.obj...
+loaded image size: 1024, 1024
