@@ -14,3 +14,7 @@ To build Physics Allolib, follow these steps:
 ./run.sh
 ```
 If these thell don't work for your system, please See [steps](https://github.com/AlloSphere-Research-Group/allolib/) how to build on your platform, these shells work on Mac.
+
+## Result
+
+https://user-images.githubusercontent.com/72654824/229410006-9491a1cb-9ab0-4b46-a83a-ac25c65b9b07.mp4
